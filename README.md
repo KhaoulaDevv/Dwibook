@@ -16,7 +16,7 @@ Une application moderne de messagerie instantanée développée avec la stack ME
 
 ## 🛠️ Stack Technique
 
-- **Frontend** : Fresh (framework Deno), React.js, TailwindCSS
+- **Frontend** : React.js, TailwindCSS
 - **Backend** : Node.js, Express.js
 - **Base de données** : MongoDB
 - **Communication en temps réel** : WebSockets
